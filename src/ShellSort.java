@@ -54,8 +54,6 @@ public class ShellSort {
 				intArray[j] = newElement;
 				
 			}
-			
-			
 		}
 		
 		for(int a:intArray) {

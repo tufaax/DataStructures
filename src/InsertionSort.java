@@ -6,6 +6,8 @@ public class InsertionSort {
 		 * 
 		 * 0(n^2) time complexity - quadratic (┛◉Д◉)┛彡┻━┻ 
 		 * 
+		 * Best Time Complexity is O(n);
+		 * 
 		 * it will take 100 steps to sort 10 items ôヮô 
 		 * 
 		 * Stable algorithm - everything is literally in order ＼(￣▽￣)/
