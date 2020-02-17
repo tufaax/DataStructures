@@ -34,6 +34,7 @@ public class ShellSort {
 		 *   + Unstable algorigthm - (-＿- )ノ
 		 *   + Doesn't require as much shifting as insertion sort since it is presorted.
 		 *   
+		 * 
 		 */
 		
 		int[] intArray = {20, 35, -15, 7, 55, 1 -22};
